@@ -40,7 +40,7 @@ class ImageListAdapter(val imageList: MutableList<ImageItem>) : RecyclerView.Ada
 
 
             //initializes transition
-            view.context.startActivity(intent, ActivityOptions.makeSceneTransitionAnimation(view.context as Activity).toBundle())
+            view.context.startActivity(intent, ActivityOptions.makeSceneTransitionAnimation(view.context as Activity, viewHolder.image, "shared_image").toBundle())
 
         }
 

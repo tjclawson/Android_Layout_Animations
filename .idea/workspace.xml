@@ -59,26 +59,7 @@
     <last-search-timestamp>1566241802117</last-search-timestamp>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="219f00e8-cfc1-4737-9ef7-ba6209fdfdc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/Animation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageDetail.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageDetail.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageListAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_image_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_image_detail.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/image_item_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/image_item_layout.xml" afterDir="false" />
-    </list>
+    <list default="true" id="219f00e8-cfc1-4737-9ef7-ba6209fdfdc1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,11 +80,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageListAdapter.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+            <state relative-caret-position="216">
+              <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -111,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageDetail.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="199">
               <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
             </state>
           </provider>
@@ -158,11 +139,11 @@
           <provider editor-type-id="android-designer2" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="175">
+              <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -193,8 +174,8 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/Animation.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageDetail.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageListAdapter.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageListAdapter.kt" />
       </list>
     </option>
   </component>
@@ -352,7 +333,7 @@
     <frame x="13" y="24" width="1549" height="779" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.27073658" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.27073658" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
       <window_info id="Image Layers" />
@@ -369,7 +350,7 @@
       <window_info anchor="bottom" id="Debug" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.2838428" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.2838428" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Gradle" />
@@ -461,24 +442,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageListAdapter.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        <state relative-caret-position="175">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageDetail.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="199">
           <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/MainActivity.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/galleryapp/ImageListAdapter.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        <state relative-caret-position="216">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
         </state>
       </provider>
     </entry>

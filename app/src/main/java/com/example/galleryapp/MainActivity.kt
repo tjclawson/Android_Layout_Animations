@@ -24,8 +24,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         window.requestFeature(Window.FEATURE_CONTENT_TRANSITIONS)
-        window.enterTransition = Slide()
-        window.exitTransition = Slide()
+        window.enterTransition = Fade()
+        window.exitTransition = Fade()
 
         setContentView(R.layout.activity_main)
 
