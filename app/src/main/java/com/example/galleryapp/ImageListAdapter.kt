@@ -1,9 +1,14 @@
 package com.example.galleryapp
 
+import android.app.Activity
+import android.app.ActivityOptions
 import android.content.Intent
+import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.view.animation.Animation
+import android.view.animation.AnimationUtils
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.cardview.widget.CardView
@@ -28,6 +33,18 @@ class ImageListAdapter(val imageList: MutableList<ImageItem>) : RecyclerView.Ada
 
         viewHolder.name.text = image.imageName
         viewHolder.image.setImageDrawable(viewHolder.image.getContext().getDrawable(image.imageID))
+
+        viewHolder.card.setOnClickListener{ view ->
+            val intent = Intent(view.context, ImageDetail::class.java)
+            intent.putExtra(ImageDetail.ITEM_KEY, image)
+
+
+            //initializes transition
+            view.context.startActivity(intent, ActivityOptions.makeSceneTransitionAnimation(view.context as Activity).toBundle())
+
+        }
+
+
     }
 
 
@@ -37,6 +54,7 @@ class ImageListAdapter(val imageList: MutableList<ImageItem>) : RecyclerView.Ada
         val card: CardView = view.card_view
 
     }
+
 
 
 }
