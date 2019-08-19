@@ -13,6 +13,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.galleryapp.Animation.Companion.setAnimation
 import kotlinx.android.synthetic.main.image_item_layout.view.*
 
 
@@ -43,6 +44,8 @@ class ImageListAdapter(val imageList: MutableList<ImageItem>) : RecyclerView.Ada
             view.context.startActivity(intent, ActivityOptions.makeSceneTransitionAnimation(view.context as Activity, viewHolder.image, "shared_image").toBundle())
 
         }
+
+        setAnimation(viewHolder.card)
 
 
     }
